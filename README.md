@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuanwar072&layout=compact&hide=html" alt="abuanwar072" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalidAbderhuman&show_icons=true" alt="kalidAbderhuman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalidAbderhuman&show_icons=true".replaceAll("kalidAbderhuman","kalid") alt="kalidAbderhuman" /></p>
 
 
