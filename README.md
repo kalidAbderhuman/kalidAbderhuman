@@ -15,7 +15,7 @@
 ### Connect with me:
 
 <a href="https://twitter.com/Kalide0912" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Kalide0912" height="22" width="22" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kalide-abderhamne-382480132/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abuanwar072" height="22" width="22" /></a>
+<a href="https://www.linkedin.com/in/kalide-abderhamne-382480132/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abuanwar072" height="22" width="22" /></a>
 <a href="https://www.youtube.com/channel/UCKw9pIkPznoGSpRiq99PQmQ" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a>
 
 
