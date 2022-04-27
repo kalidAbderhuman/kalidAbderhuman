@@ -4,7 +4,11 @@ Hi 👋 My name is KAlid Abdrehman
 flutter devliver
 ----------------
 
-🌱 I’m currently learning Flutter, SwiftUI ⚡ I’m currently learning Solidity, Dart, MongoDB 👯 I’m looking to collaborate on Flutter Projects 🤔 I’m looking for help with Solidity 💬 Ask me about Dart, Java, MsSQl, MySql, Delphi
+🌱 I’m currently learning Flutter, SwiftUI 
+⚡ I’m currently learning Solidity, Dart, MongoDB 
+👯 I’m looking to collaborate on Flutter Projects 
+🤔 I’m looking for help with Solidity
+💬 Ask me about Dart, Java, MsSQl, MySql, Delphi
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
 * 🖥️  See my portfolio at [http://kalidabderhuman.github.io/](http://kalidabderhuman.github.io/)
@@ -36,7 +40,7 @@ flutter devliver
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/kalidAbderhuman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kalideabderhman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kalide-abderhamne-382480132/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/10923952/kalide" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Kalide0912" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCKw9pIkPznoGSpRiq99PQmQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/kalidAbderhuman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kalideabderhman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kalide-abderhamne-382480132/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/10923952/kalide" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Kalide0912" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCKw9pIkPznoGSpRiq99PQmQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
