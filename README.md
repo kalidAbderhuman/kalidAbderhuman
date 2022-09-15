@@ -1,4 +1,4 @@
-Hi 👋 My name is KAlid Abdrehman
+Hi 👋 My Name is Kalid Abdrehman
 ================================
 
 Flutter Developer Expert
