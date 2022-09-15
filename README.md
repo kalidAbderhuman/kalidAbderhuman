@@ -1,7 +1,7 @@
 Hi 👋 My name is KAlid Abdrehman
 ================================
 
-flutter devliver
+Flutter Developer Expert
 ----------------
 
 🌱 I’m currently learning Flutter, SwiftUI 
