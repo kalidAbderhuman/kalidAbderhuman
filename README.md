@@ -11,7 +11,7 @@ Flutter Developer Expert
 💬 Ask me about Dart, Java, MsSQl, MySql, Delphi
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
-* 🖥️  See my portfolio at [http://kalidabderhuman.github.io/](http://kalidabderhuman.github.io/)
+* 🖥️  See my portfolio at [https://linktr.ee/kamnas](https://linktr.ee/kamnas)
 * ✉️  You can contact me at [kalide091260@gmail.co](mailto:kalide091260@gmail.co)
 * 🚀  I'm currently working on [guzo](http://guzo.et/)
 * 🧠  I'm learning SwiftUI
