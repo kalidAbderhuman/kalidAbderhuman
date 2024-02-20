@@ -9,6 +9,8 @@ Flutter Developer Expert
 👯 I’m looking to collaborate on Flutter Projects 
 🤔 I’m looking for help with Solidity
 💬 Ask me about Dart, Java, MsSQl, MySql, Delphi
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
 * 🖥️  See my portfolio at [https://linktr.ee/kamnas](https://linktr.ee/kamnas)
