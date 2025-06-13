@@ -14,7 +14,7 @@ Flutter Developer Expert
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
 * 🖥️  See my portfolio at [https://linktr.ee/kamnas](https://linktr.ee/kamnas)
-* ✉️  You can contact me at [kalide091260@gmail.co](mailto:kalide091260@gmail.co)
+* ✉️  You can contact me at [kalide091260@gmail.co](mailto:kalide091260@gmail.com)
 * 🚀  I'm currently working on [Kegeberew Technology Solution](https://kegeberewtech.com/)
 * 🧠  I'm learning SwiftUI
 * 🤝  I'm open to collaborating on Flutter
